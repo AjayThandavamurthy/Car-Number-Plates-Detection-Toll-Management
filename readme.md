@@ -28,8 +28,8 @@ This project implements a toll management system that detects car number plates 
 
 2. Install the required Python libraries:
 
-```bash
-pip install opencv-python easyocr twilio phonenumbers
+   ```bash
+   pip install opencv-python easyocr twilio phonenumbers
 
 3.  Download the required Haar Cascade model for number plate detection (`model/number_plate_by_ajay.xml`).
     
