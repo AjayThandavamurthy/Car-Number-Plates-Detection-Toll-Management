@@ -7,9 +7,9 @@ import phonenumbers
 from twilio.rest import Client
 
 # Twilio account credentials
-account_sid = 'AC61b04f7b8e662e28d1eca95e426fdd94'  
-auth_token = 'b34ee8744fa7d370dda043ecb9634668'
-twilio_phone_number = '+12564488206'
+account_sid = '***********************************'  
+auth_token = '***********************************'
+twilio_phone_number = '+12564*****'
 
 # Initialize Twilio client
 client = Client(account_sid, auth_token)
